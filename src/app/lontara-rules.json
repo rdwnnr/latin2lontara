@@ -1,0 +1,1130 @@
+[
+    {
+        "from": ".",
+        "to": "᨟"
+    },
+    {
+        "from": ",",
+        "to": "᨞"
+    },
+    {
+        "from": "dw",
+        "to": "ᨉᨘ",
+        "description": "Huruf D dan W bersatu, W menjadi U"
+    },
+    {
+        "from": "kh",
+        "to": "ᨖᨛ",
+        "hasLeft": true
+    },
+    {
+        "from": "ka",
+        "to": "ᨀ"
+    },
+    {
+        "from": "ki",
+        "to": "ᨀᨗ"
+    },
+    {
+        "from": "ku",
+        "to": "ᨀᨘ"
+    },
+    {
+        "from": "ke",
+        "to": "ᨀᨙ"
+    },
+    {
+        "from": "ko",
+        "to": "ᨀᨚ"
+    },
+    {
+        "from": "kq",
+        "to": "ᨀᨛ"
+    },
+    {
+        "from": "k",
+        "to": "ᨀᨛ",
+        "right": "r",
+        "description": "Huruf K bila bertemu huruf R"
+    },
+    {
+        "from": "k",
+        "to": "ᨀᨛ",
+        "right": "l",
+        "description": "Huruf K bila bertemu huruf L"
+    },
+    {
+        "from": "k",
+        "to": "ᨀᨛ",
+        "right": "d",
+        "description": "Huruf K bila bertemu huruf D"
+    },
+
+    {
+        "from": "ga",
+        "to": "ᨁ"
+    },
+    {
+        "from": "gi",
+        "to": "ᨁᨗ"
+    },
+    {
+        "from": "gu",
+        "to": "ᨁᨘ"
+    },
+    {
+        "from": "ge",
+        "to": "ᨁᨙ"
+    },
+    {
+        "from": "go",
+        "to": "ᨁᨚ"
+    },
+    {
+        "from": "gq",
+        "to": "ᨁᨛ"
+    },
+    {
+        "from": "g",
+        "to": "ᨁᨛ",
+        "right": "r",
+        "description": "Huruf G bila bertemu huruf R"
+    },
+    {
+        "from": "nga",
+        "to": "ᨂ"
+    },
+    {
+        "from": "ngi",
+        "to": "ᨂᨗ"
+    },
+    {
+        "from": "ngu",
+        "to": "ᨂᨘ"
+    },
+    {
+        "from": "nge",
+        "to": "ᨂᨙ"
+    },
+    {
+        "from": "ngo",
+        "to": "ᨂᨚ"
+    },
+    {
+        "from": "ngq",
+        "to": "ᨂᨛ"
+    },
+    {
+        "from": "n",
+        "to": "ᨂᨛ",
+        "right": "s",
+        "description": "Huruf N bila jumpa huruf S"
+    },
+    {
+        "from": "nka",
+        "to": "ᨃ"
+    },
+    {
+        "from": "nki",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "nku",
+        "to": "ᨃᨘ"
+    },
+    {
+        "from": "nke",
+        "to": "ᨃᨙ"
+    },
+    {
+        "from": "nko",
+        "to": "ᨃᨚ"
+    },
+    {
+        "from": "nkq",
+        "to": "ᨃᨛ"
+    },
+    {
+        "from": "ngka",
+        "to": "ᨃ"
+    },
+    {
+        "from": "ngki",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "ngku",
+        "to": "ᨃᨘ"
+    },
+    {
+        "from": "ngke",
+        "to": "ᨃᨙ"
+    },
+    {
+        "from": "ngko",
+        "to": "ᨃᨚ"
+    },
+    {
+        "from": "ngkq",
+        "to": "ᨃᨛ"
+    },
+    {
+        "from": "pa",
+        "to": "ᨄ"
+    },
+    {
+        "from": "pi",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "pu",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "pe",
+        "to": "ᨄᨙ"
+    },
+    {
+        "from": "po",
+        "to": "ᨄᨚ"
+    },
+    {
+        "from": "pq",
+        "to": "ᨄᨛ"
+    },
+    {
+        "description":"Huruf P bila jumpa huruf R",
+        "from": "p",
+        "to": "ᨄᨛ",
+        "right": "r"
+    },
+    {
+        "description":"Huruf P bila jumpa huruf L",
+        "from": "p",
+        "to": "ᨄᨛ",
+        "right": "l"
+    },
+    {
+        "from": "fa",
+        "to": "ᨄ"
+    },
+    {
+        "from": "fi",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "fu",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "fe",
+        "to": "ᨄᨙ"
+    },
+    {
+        "from": "fo",
+        "to": "ᨄᨚ"
+    },
+    {
+        "from": "fq",
+        "to": "ᨄᨛ"
+    },
+    {
+        "description":"Huruf F bila jumpa huruf R",
+        "from": "f",
+        "to": "ᨄᨛ",
+        "right": "r"
+    },
+    {
+        "description":"Huruf F bila jumpa huruf L",
+        "from": "f",
+        "to": "ᨄᨛ",
+        "right": "l"
+    },
+    {
+        "from": "ba",
+        "to": "ᨅ"
+    },
+    {
+        "from": "bi",
+        "to": "ᨅᨗ"
+    },
+    {
+        "from": "bu",
+        "to": "ᨅᨘ"
+    },
+    {
+        "from": "be",
+        "to": "ᨅᨙ"
+    },
+    {
+        "from": "bo",
+        "to": "ᨅᨚ"
+    },
+    {
+        "from": "bq",
+        "to": "ᨅᨛ"
+    },
+    {
+        "description": "Huruf B bila jumpa huruf R",
+        "from": "b",
+        "to": "ᨅᨛ",
+        "right": "r"
+    },
+    {
+        "description": "Huruf B bila jumpa huruf L",
+        "from": "b",
+        "to": "ᨅᨛ",
+        "right": "l"
+    },
+    {
+        "from": "ma",
+        "to": "ᨆ"
+    },
+    {
+        "from": "mi",
+        "to": "ᨆᨗ"
+    },
+    {
+        "from": "mu",
+        "to": "ᨆᨘ"
+    },
+    {
+        "from": "me",
+        "to": "ᨆᨙ"
+    },
+    {
+        "from": "mo",
+        "to": "ᨆᨚ"
+    },
+    {
+        "from": "mq",
+        "to": "ᨆᨛ"
+    },
+    {
+        "from": "mpa",
+        "to": "ᨇ"
+    },
+    {
+        "from": "mpi",
+        "to": "ᨇᨗ"
+    },
+    {
+        "from": "mpu",
+        "to": "ᨇᨘ"
+    },
+    {
+        "from": "mpe",
+        "to": "ᨇᨙ"
+    },
+    {
+        "from": "mpo",
+        "to": "ᨇᨚ"
+    },
+    {
+        "from": "mpq",
+        "to": "ᨇᨛ"
+    },
+    {
+        "from": "npa",
+        "to": "ᨇ"
+    },
+    {
+        "from": "npi",
+        "to": "ᨇᨗ"
+    },
+    {
+        "from": "npu",
+        "to": "ᨇᨘ"
+    },
+    {
+        "from": "npe",
+        "to": "ᨇᨙ"
+    },
+    {
+        "from": "npo",
+        "to": "ᨇᨚ"
+    },
+    {
+        "from": "npq",
+        "to": "ᨇᨛ"
+    },
+    {
+        "from": "ta",
+        "to": "ᨈ"
+    },
+    {
+        "from": "ti",
+        "to": "ᨈᨗ"
+    },
+    {
+        "from": "tu",
+        "to": "ᨈᨘ"
+    },
+    {
+        "from": "te",
+        "to": "ᨈᨙ"
+    },
+    {
+        "from": "to",
+        "to": "ᨈᨚ"
+    },
+    {
+        "from": "tq",
+        "to": "ᨈᨛ"
+    },
+    {
+        "description": "Huruf T bila jumpa huruf R",
+        "from": "t",
+        "to": "ᨈᨛ",
+        "right": "r"
+    },
+    {
+        "from": "da",
+        "to": "ᨉ"
+    },
+    {
+        "from": "di",
+        "to": "ᨉᨗ"
+    },
+    {
+        "from": "du",
+        "to": "ᨉᨘ"
+    },
+    {
+        "from": "de",
+        "to": "ᨉᨙ"
+    },
+    {
+        "from": "do",
+        "to": "ᨉᨚ"
+    },
+    {
+        "from": "dq",
+        "to": "ᨉᨛ"
+    },
+    {
+        "description": "Huruf D bertemu R",
+        "from": "d",
+        "to": "ᨉᨛ",
+        "right": "r"
+    },
+    {
+        "from": "n",
+        "to": "ᨕᨛ",
+        "hasLeft": false
+    },
+    {
+        "from": "na",
+        "to": "ᨊ"
+    },
+    {
+        "from": "ni",
+        "to": "ᨊᨗ"
+    },
+    {
+        "from": "nu",
+        "to": "ᨊᨘ"
+    },
+    {
+        "from": "ne",
+        "to": "ᨊᨙ"
+    },
+    {
+        "from": "no",
+        "to": "ᨊᨚ"
+    },
+    {
+        "from": "nq",
+        "to": "ᨊᨛ"
+    },
+    {
+        "from": "nra",
+        "to": "ᨋ"
+    },
+    {
+        "from": "nri",
+        "to": "ᨋᨗ"
+    },
+    {
+        "from": "nru",
+        "to": "ᨋᨘ"
+    },
+    {
+        "from": "nre",
+        "to": "ᨋᨙ"
+    },
+    {
+        "from": "nro",
+        "to": "ᨋᨚ"
+    },
+    {
+        "from": "nrq",
+        "to": "ᨋᨛ"
+    },
+    {
+        "from": "ndra",
+        "to": "ᨋ"
+    },
+    {
+        "from": "ndri",
+        "to": "ᨋᨗ"
+    },
+    {
+        "from": "ndru",
+        "to": "ᨋᨘ"
+    },
+    {
+        "from": "ndre",
+        "to": "ᨋᨙ"
+    },
+    {
+        "from": "ndro",
+        "to": "ᨋᨚ"
+    },
+    {
+        "from": "ndrq",
+        "to": "ᨋᨛ"
+    },
+    {
+        "from": "ca",
+        "to": "ᨌ"
+    },
+    {
+        "from": "ci",
+        "to": "ᨌᨗ"
+    },
+    {
+        "from": "cu",
+        "to": "ᨌᨘ"
+    },
+    {
+        "from": "ce",
+        "to": "ᨌᨙ"
+    },
+    {
+        "from": "co",
+        "to": "ᨌᨚ"
+    },
+    {
+        "from": "cq",
+        "to": "ᨌᨛ"
+    },
+    {
+        "from": "ja",
+        "to": "ᨍ"
+    },
+    {
+        "from": "ji",
+        "to": "ᨍᨗ"
+    },
+    {
+        "from": "ju",
+        "to": "ᨍᨘ"
+    },
+    {
+        "from": "je",
+        "to": "ᨍᨙ"
+    },
+    {
+        "from": "jo",
+        "to": "ᨍᨚ"
+    },
+    {
+        "from": "jq",
+        "to": "ᨍᨛ"
+    },
+    {
+        "from": "nya",
+        "to": "ᨎ"
+    },
+    {
+        "from": "nyi",
+        "to": "ᨎᨗ"
+    },
+    {
+        "from": "nyu",
+        "to": "ᨎᨘ"
+    },
+    {
+        "from": "nye",
+        "to": "ᨎᨙ"
+    },
+    {
+        "from": "nyo",
+        "to": "ᨎᨚ"
+    },
+    {
+        "from": "nyq",
+        "to": "ᨎᨛ"
+    },
+    {
+        "from": "nca",
+        "to": "ᨏ"
+    },
+    {
+        "from": "nci",
+        "to": "ᨏᨗ"
+    },
+    {
+        "from": "ncu",
+        "to": "ᨏᨘ"
+    },
+    {
+        "from": "nce",
+        "to": "ᨏᨙ"
+    },
+    {
+        "from": "nco",
+        "to": "ᨏᨚ"
+    },
+    {
+        "from": "ncq",
+        "to": "ᨏᨛ"
+    },
+    {
+        "from": "ia",
+        "to": "ᨐ"
+    },
+    {
+        "from": "iya",
+        "to": "ᨐᨗ"
+    },
+    {
+        "from": "iu",
+        "to": "ᨐᨘ"
+    },
+    {
+        "from": "ie",
+        "to": "ᨐᨙ"
+    },
+    {
+        "from": "io",
+        "to": "ᨐᨚ"
+    },
+    {
+        "from": "iq",
+        "to": "ᨐᨛ"
+    },
+    {
+        "from": "ya",
+        "to": "ᨐ"
+    },
+    {
+        "from": "yi",
+        "to": "ᨐᨗ"
+    },
+    {
+        "from": "yu",
+        "to": "ᨐᨘ"
+    },
+    {
+        "from": "ye",
+        "to": "ᨐᨙ"
+    },
+    {
+        "from": "yo",
+        "to": "ᨐᨚ"
+    },
+    {
+        "from": "yq",
+        "to": "ᨐᨛ"
+    },
+    {
+        "from": "ra",
+        "to": "ᨑ"
+    },
+    {
+        "from": "ri",
+        "to": "ᨑᨗ"
+    },
+    {
+        "from": "ru",
+        "to": "ᨑᨘ"
+    },
+    {
+        "from": "re",
+        "to": "ᨑᨙ"
+    },
+    {
+        "from": "ro",
+        "to": "ᨑᨚ"
+    },
+    {
+        "from": "rq",
+        "to": "ᨑᨛ"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi KA",
+        "from": "r",
+        "to": "ᨑ",
+        "left": "ᨀ"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi TA",
+        "from": "r",
+        "to": "ᨑ",
+        "left": "ᨈ"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi U",
+        "from": "r",
+        "to": "ᨑᨘ",
+        "left": "ᨘ"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi Q",
+        "from": "r",
+        "to": "ᨑᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi O",
+        "from": "r",
+        "to": "ᨑᨚ",
+        "left": "ᨚ"
+    },
+    {
+        "description":"Huruf R bila jumpa huruf T",
+        "from": "r",
+        "to": "ᨑᨛ",
+        "right": "t"
+    },
+    {
+        "description":"Huruf R bila jumpa huruf L",
+        "from": "r",
+        "to": "ᨑᨛ",
+        "right": "l"
+    },
+    {
+        "description":"Huruf R bila jumpa huruf M",
+        "from": "r",
+        "to": "ᨑᨛ",
+        "right": "m"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi E",
+        "from": "r",
+        "to": "ᨑᨙ",
+        "left": "ᨙ"
+    },
+    {
+        "description":"Akhiran R bila didahului bunyi I",
+        "from": "r",
+        "to": "ᨑᨛ",
+        "left": "ᨗ"
+    },
+
+
+    {
+        "from": "la",
+        "to": "ᨒ"
+    },
+
+
+    {
+        "from": "lla",
+        "to": "ᨒ"
+    },
+    {
+        "from": "li",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lu",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "le",
+        "to": "ᨒᨙ"
+    },
+    {
+        "from": "lo",
+        "to": "ᨒᨚ"
+    },
+    {
+        "from": "lq",
+        "to": "ᨒᨛ"
+    },
+    {
+        "description": "Akhiran L bila sebelumnya huruf GA",
+        "from": "l",
+        "to": "ᨒ",
+        "left": "ᨁ"
+    },
+    {
+        "description": "Akhiran L bila sebelumnya huruf SA",
+        "from": "l",
+        "to": "ᨒᨛ",
+        "left": "ᨔ"
+    },
+    {
+        "description": "Akhiran L bila sebelumnya huruf KA",
+        "from": "l",
+        "to": "ᨒᨛ",
+        "left": "ᨀ"
+    },
+    {
+        "description":"Akhiran L bila didahului bunyi I",
+        "from": "l",
+        "to": "ᨒᨛ",
+        "left": "ᨗ"
+    },
+    {
+        "description":"Akhiran L bila didahului bunyi Q",
+        "from": "l",
+        "to": "ᨒᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description":"Akhiran L bila didahului bunyi O",
+        "from": "l",
+        "to": "ᨒᨚ",
+        "left": "ᨚ"
+    },
+    {
+        "description":"Akhiran L bila didahului bunyi U",
+        "from": "l",
+        "to": "ᨒᨘ",
+        "left": "ᨘ"
+    },
+    {
+        "description":"Akhiran L bila didahului bunyi E",
+        "from": "l",
+        "to": "ᨒᨙ",
+        "left": "ᨙ"
+    },
+
+
+    {
+        "from": "wa",
+        "to": "ᨓ"
+    },
+    {
+        "from": "wi",
+        "to": "ᨓᨗ"
+    },
+    {
+        "from": "wu",
+        "to": "ᨓᨘ"
+    },
+    {
+        "from": "we",
+        "to": "ᨓᨙ"
+    },
+    {
+        "from": "wo",
+        "to": "ᨓᨚ"
+    },
+    {
+        "from": "wq",
+        "to": "ᨓᨛ"
+    },
+
+    {
+        "from": "ua",
+        "to": "ᨓ"
+    },
+    {
+        "from": "ui",
+        "to": "ᨓᨗ"
+    },
+    {
+        "from": "ue",
+        "to": "ᨓᨙ"
+    },
+    {
+        "from": "uo",
+        "to": "ᨓᨚ"
+    },
+    {
+        "from": "uq",
+        "to": "ᨓᨛ"
+    },
+
+    {
+        "from": "sa",
+        "to": "ᨔ"
+    },
+    {
+        "from": "si",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "su",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "se",
+        "to": "ᨔᨙ"
+    },
+    {
+        "from": "so",
+        "to": "ᨔᨚ"
+    },
+    {
+        "from": "sq",
+        "to": "ᨔᨛ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal I",
+        "from": "s",
+        "to": "ᨔᨗ",
+        "left": "ᨗ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal Q",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal E",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "left": "ᨙ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal U",
+        "from": "s",
+        "to": "ᨔᨘ",
+        "left": "ᨘ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya huruf BA",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "left": "ᨅ"
+    },
+    {
+        "description": "Huruf S bila jumpa huruf TA",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "t"
+    },
+    {
+        "description": "Huruf S bila jumpa huruf LA",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "l"
+    },
+
+    
+    {
+        "from": "sya",
+        "to": "ᨔ"
+    },
+    {
+        "from": "syi",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "syu",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "sye",
+        "to": "ᨔᨙ"
+    },
+    {
+        "from": "syo",
+        "to": "ᨔᨚ"
+    },
+    {
+        "from": "syq",
+        "to": "ᨔᨛ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal I",
+        "from": "sy",
+        "to": "ᨔᨗ",
+        "left": "ᨗ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal Q",
+        "from": "sy",
+        "to": "ᨔᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal E",
+        "from": "sy",
+        "to": "ᨔᨛ",
+        "left": "ᨙ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal U",
+        "from": "sy",
+        "to": "ᨔᨘ",
+        "left": "ᨘ"
+    },
+    {
+        "description": "Akhiran S bila sebelumnya huruf BA",
+        "from": "sy",
+        "to": "ᨔᨛ",
+        "left": "ᨅ"
+    },
+    {
+        "description": "Huruf S bila jumpa huruf TA",
+        "from": "sy",
+        "to": "ᨔᨛ",
+        "right": "t"
+    },
+    {
+        "description": "Huruf S bila jumpa huruf LA",
+        "from": "sy",
+        "to": "ᨔᨛ",
+        "right": "l"
+    },
+
+
+    {
+        "from": "za",
+        "to": "ᨔ"
+    },
+    {
+        "from": "zi",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "zu",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "ze",
+        "to": "ᨔᨙ"
+    },
+    {
+        "from": "zo",
+        "to": "ᨔᨚ"
+    },
+    {
+        "from": "zq",
+        "to": "ᨔᨛ"
+    },
+    {
+        "from": "ha",
+        "to": "ᨖ"
+    },
+    {
+        "from": "hi",
+        "to": "ᨖᨗ"
+    },
+    {
+        "from": "hu",
+        "to": "ᨖᨘ"
+    },
+    {
+        "from": "he",
+        "to": "ᨖᨙ"
+    },
+    {
+        "from": "ho",
+        "to": "ᨖᨚ"
+    },
+    {
+        "from": "hq",
+        "to": "ᨖᨛ"
+    },
+    {
+        "from": "r",
+        "to": "ᨑ"
+    },
+    {
+        "description": "Huruf S bertemu R",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "r"
+    },
+    {
+        "from": "s",
+        "to": "ᨔᨛ"
+    },
+    {
+        "from": "l",
+        "to": "ᨒᨛ"
+    },
+    {
+        "from": "a",
+        "to": "ᨓ",
+        "left": "ᨘ",
+        "description": "Vokal A menjadi bunyi WA, bila sebelumnya bertemu vokal U"
+    },
+    {
+        "from": "i",
+        "to": "ᨓᨗ",
+        "left": "ᨘ",
+        "description": "Vokal I menjadi bunyi WA, bila sebelumnya bertemu vokal U"
+    },
+    {
+        "from": "e",
+        "to": "ᨓᨙ",
+        "left": "ᨘ",
+        "description": "Vokal E menjadi bunyi WA, bila sebelumnya bertemu vokal U"
+    },
+    {
+        "from": "o",
+        "to": "ᨓᨚ",
+        "left": "ᨘ",
+        "description": "Vokal O menjadi bunyi WA, bila sebelumnya bertemu vokal U"
+    },
+    {
+        "from": "q",
+        "to": "ᨓᨛ",
+        "left": "ᨘ",
+        "description": "Vokal Q menjadi bunyi WA, bila sebelumnya bertemu vokal U"
+    },
+    {
+        "from": "a",
+        "to": "ᨐ",
+        "left": "ᨗ",
+        "description": "Vokal A menjadi bunyi YA, bila sebelumnya bertemu vokal I"
+    },
+    {
+        "from": "u",
+        "to": "ᨐᨘ",
+        "left": "ᨗ",
+        "description": "Vokal I menjadi bunyi WA, bila sebelumnya bertemu vokal I"
+    },
+    {
+        "from": "e",
+        "to": "ᨐᨙ",
+        "left": "ᨗ",
+        "description": "Vokal E menjadi bunyi WA, bila sebelumnya bertemu vokal I"
+    },
+    {
+        "from": "o",
+        "to": "ᨐᨚ",
+        "left": "ᨗ",
+        "description": "Vokal O menjadi bunyi WA, bila sebelumnya bertemu vokal I"
+    },
+    {
+        "from": "q",
+        "to": "ᨐᨛ",
+        "left": "ᨗ",
+        "description": "Vokal Q menjadi bunyi WA, bila sebelumnya bertemu vokal I"
+    },
+    {
+        "from": "a",
+        "to": "ᨕ"
+    },
+    {
+        "from": "i",
+        "to": "ᨕᨗ"
+    },
+    {
+        "from": "u",
+        "to": "ᨕᨘ"
+    },
+    {
+        "from": "e",
+        "to": "ᨕᨙ"
+    },
+    {
+        "from": "o",
+        "to": "ᨕᨚ"
+    },
+    {
+        "from": "q",
+        "to": "ᨕᨛ"
+    }
+]
