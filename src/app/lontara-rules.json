@@ -1,16 +1,15 @@
 [
     {
+        "from": "iyya",
+        "to": "ᨐᨗ"
+    },
+    {
         "from": ".",
         "to": "᨟"
     },
     {
         "from": ",",
         "to": "᨞"
-    },
-    {
-        "from": "dw",
-        "to": "ᨉᨘ",
-        "description": "Huruf D dan W bersatu, W menjadi U"
     },
     {
         "from": "kh",
@@ -24,6 +23,14 @@
     {
         "from": "ki",
         "to": "ᨀᨗ"
+    },
+    {
+        "from": "ky",
+        "to": "ᨀᨗ"
+    },
+    {
+        "from": "kw",
+        "to": "ᨀᨘ"
     },
     {
         "from": "ku",
@@ -60,6 +67,58 @@
         "description": "Huruf K bila bertemu huruf D"
     },
 
+    
+    {
+        "from": "qa",
+        "to": "ᨀ"
+    },
+    {
+        "from": "qi",
+        "to": "ᨀᨗ"
+    },
+    {
+        "from": "qy",
+        "to": "ᨀᨗ"
+    },
+    {
+        "from": "qw",
+        "to": "ᨀᨘ"
+    },
+    {
+        "from": "qu",
+        "to": "ᨀᨘ"
+    },
+    {
+        "from": "qe",
+        "to": "ᨀᨙ"
+    },
+    {
+        "from": "qo",
+        "to": "ᨀᨚ"
+    },
+    {
+        "from": "qq",
+        "to": "ᨀᨛ"
+    },
+    {
+        "from": "q",
+        "to": "ᨀᨛ",
+        "right": "r",
+        "description": "Huruf K bila bertemu huruf R"
+    },
+    {
+        "from": "q",
+        "to": "ᨀᨛ",
+        "right": "l",
+        "description": "Huruf K bila bertemu huruf L"
+    },
+    {
+        "from": "q",
+        "to": "ᨀᨛ",
+        "right": "d",
+        "description": "Huruf K bila bertemu huruf D"
+    },
+
     {
         "from": "ga",
         "to": "ᨁ"
@@ -67,6 +126,14 @@
     {
         "from": "gi",
         "to": "ᨁᨗ"
+    },
+    {
+        "from": "gy",
+        "to": "ᨁᨗ"
+    },
+    {
+        "from": "gw",
+        "to": "ᨁᨘ"
     },
     {
         "from": "gu",
@@ -99,6 +166,14 @@
         "to": "ᨂᨗ"
     },
     {
+        "from": "ngy",
+        "to": "ᨂᨛ"
+    },
+    {
+        "from": "ngw",
+        "to": "ᨂᨘ"
+    },
+    {
         "from": "ngu",
         "to": "ᨂᨘ"
     },
@@ -129,6 +204,14 @@
         "to": "ᨃᨗ"
     },
     {
+        "from": "nky",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "nkw",
+        "to": "ᨃᨘ"
+    },
+    {
         "from": "nku",
         "to": "ᨃᨘ"
     },
@@ -153,6 +236,14 @@
         "to": "ᨃᨗ"
     },
     {
+        "from": "ngky",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "ngkw",
+        "to": "ᨃᨘ"
+    },
+    {
         "from": "ngku",
         "to": "ᨃᨘ"
     },
@@ -175,6 +266,14 @@
     {
         "from": "pi",
         "to": "ᨄᨗ"
+    },
+    {
+        "from": "py",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "pw",
+        "to": "ᨄᨘ"
     },
     {
         "from": "pu",
@@ -213,6 +312,14 @@
         "to": "ᨄᨗ"
     },
     {
+        "from": "fy",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "fw",
+        "to": "ᨄᨘ"
+    },
+    {
         "from": "fu",
         "to": "ᨄᨘ"
     },
@@ -247,6 +354,14 @@
     {
         "from": "bi",
         "to": "ᨅᨗ"
+    },
+    {
+        "from": "by",
+        "to": "ᨅᨗ"
+    },
+    {
+        "from": "bw",
+        "to": "ᨅᨘ"
     },
     {
         "from": "bu",
@@ -285,7 +400,15 @@
         "to": "ᨆᨗ"
     },
     {
+        "from": "my",
+        "to": "ᨆᨗ"
+    },
+    {
         "from": "mu",
+        "to": "ᨆᨘ"
+    },
+    {
+        "from": "mw",
         "to": "ᨆᨘ"
     },
     {
@@ -301,6 +424,18 @@
         "to": "ᨆᨛ"
     },
     {
+        "description": "Huruf M bila jumpa huruf L",
+        "from": "m",
+        "to": "ᨆᨛ",
+        "right": "l"
+    },
+    {
+        "description": "Huruf M bila jumpa huruf R",
+        "from": "m",
+        "to": "ᨆᨛ",
+        "right": "r"
+    },
+    {
         "from": "mpa",
         "to": "ᨇ"
     },
@@ -309,7 +444,15 @@
         "to": "ᨇᨗ"
     },
     {
+        "from": "mpy",
+        "to": "ᨇᨗ"
+    },
+    {
         "from": "mpu",
+        "to": "ᨇᨘ"
+    },
+    {
+        "from": "mpw",
         "to": "ᨇᨘ"
     },
     {
@@ -333,7 +476,15 @@
         "to": "ᨇᨗ"
     },
     {
+        "from": "npy",
+        "to": "ᨇᨗ"
+    },
+    {
         "from": "npu",
+        "to": "ᨇᨘ"
+    },
+    {
+        "from": "npw",
         "to": "ᨇᨘ"
     },
     {
@@ -357,7 +508,15 @@
         "to": "ᨈᨗ"
     },
     {
+        "from": "ty",
+        "to": "ᨈᨗ"
+    },
+    {
         "from": "tu",
+        "to": "ᨈᨘ"
+    },
+    {
+        "from": "tw",
         "to": "ᨈᨘ"
     },
     {
@@ -387,8 +546,17 @@
         "to": "ᨉᨗ"
     },
     {
+        "from": "dy",
+        "to": "ᨉᨗ"
+    },
+    {
         "from": "du",
         "to": "ᨉᨘ"
+    },
+    {
+        "from": "dw",
+        "to": "ᨉᨘ",
+        "description": "Huruf D dan W bersatu, W menjadi U"
     },
     {
         "from": "de",
@@ -409,11 +577,6 @@
         "right": "r"
     },
     {
-        "from": "n",
-        "to": "ᨕᨛ",
-        "hasLeft": false
-    },
-    {
         "from": "na",
         "to": "ᨊ"
     },
@@ -422,7 +585,15 @@
         "to": "ᨊᨗ"
     },
     {
+        "from": "ny",
+        "to": "ᨊᨗ"
+    },
+    {
         "from": "nu",
+        "to": "ᨊᨘ"
+    },
+    {
+        "from": "nw",
         "to": "ᨊᨘ"
     },
     {
@@ -446,7 +617,15 @@
         "to": "ᨋᨗ"
     },
     {
+        "from": "nry",
+        "to": "ᨋᨗ"
+    },
+    {
         "from": "nru",
+        "to": "ᨋᨘ"
+    },
+    {
+        "from": "nrw",
         "to": "ᨋᨘ"
     },
     {
@@ -468,6 +647,14 @@
     {
         "from": "ndri",
         "to": "ᨋᨗ"
+    },
+    {
+        "from": "ndry",
+        "to": "ᨋᨗ"
+    },
+    {
+        "from": "ndrw",
+        "to": "ᨋᨘ"
     },
     {
         "from": "ndru",
@@ -494,7 +681,15 @@
         "to": "ᨌᨗ"
     },
     {
+        "from": "cy",
+        "to": "ᨌᨗ"
+    },
+    {
         "from": "cu",
+        "to": "ᨌᨘ"
+    },
+    {
+        "from": "cw",
         "to": "ᨌᨘ"
     },
     {
@@ -518,7 +713,15 @@
         "to": "ᨍᨗ"
     },
     {
+        "from": "jy",
+        "to": "ᨍᨗ"
+    },
+    {
         "from": "ju",
+        "to": "ᨍᨘ"
+    },
+    {
+        "from": "jw",
         "to": "ᨍᨘ"
     },
     {
@@ -542,7 +745,15 @@
         "to": "ᨎᨗ"
     },
     {
+        "from": "nyy",
+        "to": "ᨎᨗ"
+    },
+    {
         "from": "nyu",
+        "to": "ᨎᨘ"
+    },
+    {
+        "from": "nyw",
         "to": "ᨎᨘ"
     },
     {
@@ -566,7 +777,15 @@
         "to": "ᨏᨗ"
     },
     {
+        "from": "ncy",
+        "to": "ᨏᨗ"
+    },
+    {
         "from": "ncu",
+        "to": "ᨏᨘ"
+    },
+    {
+        "from": "ncw",
         "to": "ᨏᨘ"
     },
     {
@@ -584,10 +803,6 @@
     {
         "from": "ia",
         "to": "ᨐ"
-    },
-    {
-        "from": "iya",
-        "to": "ᨐᨗ"
     },
     {
         "from": "iu",
@@ -614,6 +829,10 @@
         "to": "ᨐᨗ"
     },
     {
+        "from": "yw",
+        "to": "ᨐᨘ"
+    },
+    {
         "from": "yu",
         "to": "ᨐᨘ"
     },
@@ -638,7 +857,15 @@
         "to": "ᨑᨗ"
     },
     {
+        "from": "ry",
+        "to": "ᨑᨗ"
+    },
+    {
         "from": "ru",
+        "to": "ᨑᨘ"
+    },
+    {
+        "from": "rw",
         "to": "ᨑᨘ"
     },
     {
@@ -719,15 +946,17 @@
         "from": "la",
         "to": "ᨒ"
     },
-
-
-    {
-        "from": "lla",
-        "to": "ᨒ"
-    },
     {
         "from": "li",
         "to": "ᨒᨗ"
+    },
+    {
+        "from": "ly",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lw",
+        "to": "ᨒᨘ"
     },
     {
         "from": "lu",
@@ -743,6 +972,38 @@
     },
     {
         "from": "lq",
+        "to": "ᨒᨛ"
+    },
+    {
+        "from": "lla",
+        "to": "ᨒ"
+    },
+    {
+        "from": "lli",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lly",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "llw",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "llu",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "lle",
+        "to": "ᨒᨙ"
+    },
+    {
+        "from": "llo",
+        "to": "ᨒᨚ"
+    },
+    {
+        "from": "llq",
         "to": "ᨒᨛ"
     },
     {
@@ -804,6 +1065,10 @@
         "to": "ᨓᨗ"
     },
     {
+        "from": "wy",
+        "to": "ᨓᨗ"
+    },
+    {
         "from": "wu",
         "to": "ᨓᨘ"
     },
@@ -820,6 +1085,36 @@
         "to": "ᨓᨛ"
     },
 
+    
+    {
+        "from": "va",
+        "to": "ᨓ"
+    },
+    {
+        "from": "vi",
+        "to": "ᨓᨗ"
+    },
+    {
+        "from": "vy",
+        "to": "ᨓᨗ"
+    },
+    {
+        "from": "vu",
+        "to": "ᨓᨘ"
+    },
+    {
+        "from": "ve",
+        "to": "ᨓᨙ"
+    },
+    {
+        "from": "vo",
+        "to": "ᨓᨚ"
+    },
+    {
+        "from": "vq",
+        "to": "ᨓᨛ"
+    },
+
     {
         "from": "ua",
         "to": "ᨓ"
@@ -827,6 +1122,12 @@
     {
         "from": "ui",
         "to": "ᨓᨗ"
+    },
+    {
+        "from": "y",
+        "to": "ᨓᨗ",
+        "hasLeft": true,
+        "left": "ᨘ"
     },
     {
         "from": "ue",
@@ -841,6 +1142,31 @@
         "to": "ᨓᨛ"
     },
 
+    
+    {
+        "from": "sya",
+        "to": "ᨔ"
+    },
+    {
+        "from": "syi",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "syu",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "sye",
+        "to": "ᨔᨙ"
+    },
+    {
+        "from": "syo",
+        "to": "ᨔᨚ"
+    },
+    {
+        "from": "syq",
+        "to": "ᨔᨛ"
+    },
     {
         "from": "sa",
         "to": "ᨔ"
@@ -850,7 +1176,15 @@
         "to": "ᨔᨗ"
     },
     {
+        "from": "sy",
+        "to": "ᨔᨗ"
+    },
+    {
         "from": "su",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "sw",
         "to": "ᨔᨘ"
     },
     {
@@ -907,71 +1241,127 @@
         "to": "ᨔᨛ",
         "right": "l"
     },
-
-    
     {
-        "from": "sya",
-        "to": "ᨔ"
+        "description": "Huruf S bila jumpa R",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "r"
     },
     {
-        "from": "syi",
-        "to": "ᨔᨗ"
-    },
-    {
-        "from": "syu",
-        "to": "ᨔᨘ"
-    },
-    {
-        "from": "sye",
-        "to": "ᨔᨙ"
-    },
-    {
-        "from": "syo",
-        "to": "ᨔᨚ"
-    },
-    {
-        "from": "syq",
-        "to": "ᨔᨛ"
-    },
-    {
-        "description": "Akhiran S bila sebelumnya ada bunyi vokal I",
+        "description": "Akhiran SY bila sebelumnya ada bunyi vokal I",
         "from": "sy",
         "to": "ᨔᨗ",
         "left": "ᨗ"
     },
     {
-        "description": "Akhiran S bila sebelumnya ada bunyi vokal Q",
+        "description": "Akhiran SY bila sebelumnya ada bunyi vokal Q",
         "from": "sy",
         "to": "ᨔᨛ",
         "left": "ᨛ"
     },
     {
-        "description": "Akhiran S bila sebelumnya ada bunyi vokal E",
+        "description": "Akhiran SY bila sebelumnya ada bunyi vokal E",
         "from": "sy",
         "to": "ᨔᨛ",
         "left": "ᨙ"
     },
     {
-        "description": "Akhiran S bila sebelumnya ada bunyi vokal U",
+        "description": "Akhiran SY bila sebelumnya ada bunyi vokal U",
         "from": "sy",
         "to": "ᨔᨘ",
         "left": "ᨘ"
     },
     {
-        "description": "Akhiran S bila sebelumnya huruf BA",
+        "description": "Akhiran SY bila sebelumnya huruf BA",
         "from": "sy",
         "to": "ᨔᨛ",
         "left": "ᨅ"
     },
     {
-        "description": "Huruf S bila jumpa huruf TA",
+        "description": "Huruf SY bila jumpa huruf TA",
         "from": "sy",
         "to": "ᨔᨛ",
         "right": "t"
     },
     {
-        "description": "Huruf S bila jumpa huruf LA",
+        "description": "Huruf SY bila jumpa huruf LA",
         "from": "sy",
+        "to": "ᨔᨛ",
+        "right": "l"
+    },
+
+    
+    {
+        "from": "sha",
+        "to": "ᨔ"
+    },
+    {
+        "from": "shi",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "shy",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "shw",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "shu",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "she",
+        "to": "ᨔᨙ"
+    },
+    {
+        "from": "sho",
+        "to": "ᨔᨚ"
+    },
+    {
+        "from": "shq",
+        "to": "ᨔᨛ"
+    },
+    {
+        "description": "Akhiran SH bila sebelumnya ada bunyi vokal I",
+        "from": "sh",
+        "to": "ᨔᨗ",
+        "left": "ᨗ"
+    },
+    {
+        "description": "Akhiran SH bila sebelumnya ada bunyi vokal Q",
+        "from": "sh",
+        "to": "ᨔᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description": "Akhiran SH bila sebelumnya ada bunyi vokal E",
+        "from": "sh",
+        "to": "ᨔᨛ",
+        "left": "ᨙ"
+    },
+    {
+        "description": "Akhiran SH bila sebelumnya ada bunyi vokal U",
+        "from": "sh",
+        "to": "ᨔᨘ",
+        "left": "ᨘ"
+    },
+    {
+        "description": "Akhiran SH bila sebelumnya huruf BA",
+        "from": "sh",
+        "to": "ᨔᨛ",
+        "left": "ᨅ"
+    },
+    {
+        "description": "Huruf SH bila jumpa huruf TA",
+        "from": "sh",
+        "to": "ᨔᨛ",
+        "right": "t"
+    },
+    {
+        "description": "Huruf SH bila jumpa huruf LA",
+        "from": "sh",
         "to": "ᨔᨛ",
         "right": "l"
     },
@@ -986,7 +1376,15 @@
         "to": "ᨔᨗ"
     },
     {
+        "from": "zy",
+        "to": "ᨔᨗ"
+    },
+    {
         "from": "zu",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "zw",
         "to": "ᨔᨘ"
     },
     {
@@ -1010,7 +1408,15 @@
         "to": "ᨖᨗ"
     },
     {
+        "from": "hy",
+        "to": "ᨖᨗ"
+    },
+    {
         "from": "hu",
+        "to": "ᨖᨘ"
+    },
+    {
+        "from": "hw",
         "to": "ᨖᨘ"
     },
     {
@@ -1028,12 +1434,6 @@
     {
         "from": "r",
         "to": "ᨑ"
-    },
-    {
-        "description": "Huruf S bertemu R",
-        "from": "s",
-        "to": "ᨔᨛ",
-        "right": "r"
     },
     {
         "from": "s",
@@ -1126,5 +1526,90 @@
     {
         "from": "q",
         "to": "ᨕᨛ"
+    },
+    {
+        "from": "xa",
+        "to": "ᨔ",
+        "hasLeft": false
+    },
+    {
+        "from": "xi",
+        "to": "ᨔᨗ",
+        "hasLeft": false
+    },
+    {
+        "from": "xy",
+        "to": "ᨔᨗ",
+        "hasLeft": false
+    },
+    {
+        "from": "xu",
+        "to": "ᨔᨘ",
+        "hasLeft": false
+    },
+    {
+        "from": "xw",
+        "to": "ᨔᨘ",
+        "hasLeft": false
+    },
+    {
+        "from": "xe",
+        "to": "ᨔᨙ",
+        "hasLeft": false
+    },
+    {
+        "from": "xo",
+        "to": "ᨔᨚ",
+        "hasLeft": false
+    },
+    {
+        "from": "xq",
+        "to": "ᨔᨛ",
+        "hasLeft": false
+    },
+    {
+        "from": "xa",
+        "to": "ᨀᨛᨔᨛ",
+        "hasLeft": true
+    },
+    {
+        "from": "xi",
+        "to": "ᨀᨛᨔᨗ",
+        "hasLeft": true
+    },
+    {
+        "from": "xy",
+        "to": "ᨀᨛᨔᨗ",
+        "hasLeft": true
+    },
+    {
+        "from": "xu",
+        "to": "ᨀᨛᨔᨘ",
+        "hasLeft": true
+    },
+    {
+        "from": "xw",
+        "to": "ᨀᨛᨔᨘ",
+        "hasLeft": true
+    },
+    {
+        "from": "xe",
+        "to": "ᨀᨛᨔᨙ",
+        "hasLeft": true
+    },
+    {
+        "from": "xo",
+        "to": "ᨀᨛᨔᨚ",
+        "hasLeft": true
+    },
+    {
+        "from": "xq",
+        "to": "ᨀᨛᨔᨛ",
+        "hasLeft": true
+    },
+    {
+        "from": "x",
+        "to": "ᨀᨛᨔᨛ",
+        "hasLeft": true
     }
 ]
