@@ -1392,6 +1392,31 @@
         "to": "ᨔᨙ"
     },
     {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal I",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨗ"
+    },
+    {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal Q",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal E",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨙ"
+    },
+    {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal U",
+        "from": "z",
+        "to": "ᨔᨘ",
+        "left": "ᨘ"
+    },
+
+    {
         "from": "zo",
         "to": "ᨔᨚ"
     },
@@ -1433,7 +1458,19 @@
     },
     {
         "from": "r",
+        "to": "",
+        "right": "r",
+        "description": "Huruf R hilang bila jumpa huruf R"
+    },
+    {
+        "from": "r",
         "to": "ᨑ"
+    },
+    {
+        "from": "s",
+        "to": "",
+        "right": "s",
+        "description": "Huruf S hilang bila jumpa huruf S"
     },
     {
         "from": "s",
@@ -1442,6 +1479,12 @@
     {
         "from": "l",
         "to": "ᨒᨛ"
+    },
+    {
+        "from": "l",
+        "to": "",
+        "right": "l",
+        "description":"Huruf L hilang bila jumpa huruf L"
     },
     {
         "from": "a",
@@ -1611,5 +1654,10 @@
         "from": "x",
         "to": "ᨀᨛᨔᨛ",
         "hasLeft": true
+    },
+    {
+        "from": "x",
+        "to": "",
+        "right": "x"
     }
 ]
