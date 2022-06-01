@@ -898,6 +898,12 @@
         "left": "ᨈ"
     },
     {
+        "from": "r",
+        "to": "",
+        "right": "r",
+        "description": "Huruf R hilang bila jumpa huruf R"
+    },
+    {
         "description":"Akhiran R bila didahului bunyi U",
         "from": "r",
         "to": "ᨑᨘ",
@@ -1205,6 +1211,12 @@
         "to": "ᨔᨛ"
     },
     {
+        "from": "s",
+        "to": "",
+        "right": "s",
+        "description": "Huruf S hilang bila jumpa huruf S"
+    },
+    {
         "description": "Akhiran S bila sebelumnya ada bunyi vokal I",
         "from": "s",
         "to": "ᨔᨗ",
@@ -1462,20 +1474,32 @@
         "to": "ᨖᨛ"
     },
     {
-        "from": "r",
-        "to": "",
+        "from": "h",
+        "to": "ᨖᨛ",
+        "right": "m",
+        "description": "H mati jumpa M"
+    },
+    {
+        "from": "h",
+        "to": "ᨖᨛ",
         "right": "r",
-        "description": "Huruf R hilang bila jumpa huruf R"
+        "description": "H mati jumpa R"
+    },
+    {
+        "from": "h",
+        "to": "ᨖᨛ",
+        "right": "s",
+        "description": "H mati jumpa S"
+    },
+    {
+        "from": "h",
+        "to": "ᨖᨛ",
+        "right": "l",
+        "description": "H mati jumpa L"
     },
     {
         "from": "r",
         "to": "ᨑ"
-    },
-    {
-        "from": "s",
-        "to": "",
-        "right": "s",
-        "description": "Huruf S hilang bila jumpa huruf S"
     },
     {
         "from": "s",

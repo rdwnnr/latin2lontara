@@ -20,11 +20,8 @@ export class AppComponent {
 
     this.translitService.translit(this.latinInput.toLowerCase(), 'latin2lontara', lat2lon)
     .subscribe( (result) => {
-      console.log(result);
       this.lontaraOutput = result.outputText
       .replace(/[^ᨀ-᨟0-9\s]/gi, '');
-      
-      console.log(this.lontaraOutput);
     });
   }
 }
