@@ -80,6 +80,26 @@
         "to": "ᨖ"
     },
     {
+        "from": "khi",
+        "to": "ᨖᨗ"
+    },
+    {
+        "from": "khu",
+        "to": "ᨖᨘ"
+    },
+    {
+        "from": "khe",
+        "to": "ᨖᨙ"
+    },
+    {
+        "from": "kho",
+        "to": "ᨖᨚ"
+    },
+    {
+        "from": "khq",
+        "to": "ᨖᨛ"
+    },
+    {
         "from": "kh",
         "to": "ᨖᨛ",
         "hasLeft": true,
