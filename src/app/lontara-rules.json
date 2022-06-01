@@ -76,9 +76,14 @@
         "to": "ᨏᨛ"
     },
     {
+        "from": "kha",
+        "to": "ᨖ"
+    },
+    {
         "from": "kh",
         "to": "ᨖᨛ",
-        "hasLeft": true
+        "hasLeft": true,
+        "right": ""
     },
     {
         "from": "ka",
@@ -411,6 +416,37 @@
         "to": "ᨄᨛ",
         "right": "l"
     },
+    
+    {
+        "from": "va",
+        "to": "ᨄ"
+    },
+    {
+        "from": "vi",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "vy",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "vu",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "ve",
+        "to": "ᨄᨙ"
+    },
+    {
+        "from": "vo",
+        "to": "ᨄᨚ"
+    },
+    {
+        "from": "vq",
+        "to": "ᨄᨛ"
+    },
+
+
     {
         "from": "ba",
         "to": "ᨅ"
@@ -455,6 +491,13 @@
         "to": "ᨅᨛ",
         "right": "l"
     },
+    {
+        "description": "Huruf B bila jumpa huruf D",
+        "from": "b",
+        "to": "ᨅᨛ",
+        "right": "d"
+    },
+
     {
         "from": "ma",
         "to": "ᨆ"
@@ -563,6 +606,39 @@
         "from": "npq",
         "to": "ᨇᨛ"
     },
+    {
+        "from": "nfa",
+        "to": "ᨇ"
+    },
+    {
+        "from": "nfi",
+        "to": "ᨇᨗ"
+    },
+    {
+        "from": "nfy",
+        "to": "ᨇᨗ"
+    },
+    {
+        "from": "nfu",
+        "to": "ᨇᨘ"
+    },
+    {
+        "from": "nfw",
+        "to": "ᨇᨘ"
+    },
+    {
+        "from": "nfe",
+        "to": "ᨇᨙ"
+    },
+    {
+        "from": "nfo",
+        "to": "ᨇᨚ"
+    },
+    {
+        "from": "nfq",
+        "to": "ᨇᨛ"
+    },
+
     {
         "from": "ta",
         "to": "ᨈ"
@@ -1096,36 +1172,6 @@
         "to": "ᨓᨛ"
     },
 
-    
-    {
-        "from": "va",
-        "to": "ᨓ"
-    },
-    {
-        "from": "vi",
-        "to": "ᨓᨗ"
-    },
-    {
-        "from": "vy",
-        "to": "ᨓᨗ"
-    },
-    {
-        "from": "vu",
-        "to": "ᨓᨘ"
-    },
-    {
-        "from": "ve",
-        "to": "ᨓᨙ"
-    },
-    {
-        "from": "vo",
-        "to": "ᨓᨚ"
-    },
-    {
-        "from": "vq",
-        "to": "ᨓᨛ"
-    },
-
     {
         "from": "ua",
         "to": "ᨓ"
@@ -1510,6 +1556,43 @@
         "to": "ᨒᨛ"
     },
     {
+        "from": "y",
+        "to": "",
+        "left": "ᨙ"
+    },
+    {
+        "from": "y",
+        "to": "",
+        "left": "ᨗ"
+    },
+    {
+        "from": "y",
+        "to": "",
+        "left": "ᨛ"
+    },
+    {
+        "from": "y",
+        "to": "ᨕᨗ",
+        "left": "ᨚ"
+    },
+    {
+        "from": "y",
+        "to": "ᨙ",
+        "hasLeft": true
+    },
+    {
+        "from": "j",
+        "to": "",
+        "right": "j",
+        "description": "Huruf J ganda"
+    },
+    {
+        "from": "j",
+        "to": "ᨍᨛ",
+        "hasLeft": true,
+        "description": "Akhiran J"
+    },
+    {
         "from": "l",
         "to": "",
         "right": "l",
@@ -1544,6 +1627,54 @@
         "to": "ᨓᨛ",
         "left": "ᨘ",
         "description": "Vokal Q menjadi bunyi WA, bila sebelumnya bertemu vokal U"
+    },
+    {
+        "from": "k",
+        "to": "ᨀᨛ",
+        "right": "b",
+        "description": "Huruf K bila jumpa B"
+    },
+    {
+        "from": "q",
+        "to": "ᨀᨛ",
+        "right": "b",
+        "description": "Huruf Q bila jumpa B"
+    },
+    {
+        "from": "n",
+        "to": "ᨊᨛ",
+        "right": "l",
+        "description": "Huruf N bila jumpa huruf L"
+    },
+    {
+        "from": "n",
+        "to": "ᨊᨛ",
+        "right": "z",
+        "description": "Huruf N bila jumpa huruf Z"
+    },
+    {
+        "from": "ngk",
+        "to": "ᨃᨛ",
+        "right": "l",
+        "description": "Huruf NGK bila jumpa huruf L"
+    },
+    {
+        "from": "ngk",
+        "to": "ᨃᨛ",
+        "right": "r",
+        "description": "Huruf NGK bila jumpa huruf R"
+    },
+    {
+        "from": "nk",
+        "to": "ᨃᨛ",
+        "right": "l",
+        "description": "Huruf NK bila jumpa huruf L"
+    },
+    {
+        "from": "nk",
+        "to": "ᨃᨛ",
+        "right": "r",
+        "description": "Huruf NK bila jumpa huruf R"
     },
     {
         "from": "a",
