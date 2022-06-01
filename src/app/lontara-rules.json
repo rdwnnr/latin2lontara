@@ -1392,6 +1392,31 @@
         "to": "ᨔᨙ"
     },
     {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal I",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨗ"
+    },
+    {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal Q",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨛ"
+    },
+    {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal E",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨙ"
+    },
+    {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal U",
+        "from": "z",
+        "to": "ᨔᨘ",
+        "left": "ᨘ"
+    },
+
+    {
         "from": "zo",
         "to": "ᨔᨚ"
     },
