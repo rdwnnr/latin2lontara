@@ -12,6 +12,70 @@
         "to": "᨞"
     },
     {
+        "from": "sha",
+        "to": "ᨔ"
+    },
+    {
+        "from": "shi",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "shy",
+        "to": "ᨔᨗ"
+    },
+    {
+        "from": "shw",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "shu",
+        "to": "ᨔᨘ"
+    },
+    {
+        "from": "she",
+        "to": "ᨔᨙ"
+    },
+    {
+        "from": "sho",
+        "to": "ᨔᨚ"
+    },
+    {
+        "from": "shq",
+        "to": "ᨔᨛ"
+    },
+    {
+        "from": "qha",
+        "to": "ᨀ"
+    },
+    {
+        "from": "qhi",
+        "to": "ᨀᨗ"
+    },
+    {
+        "from": "qhy",
+        "to": "ᨀᨗ"
+    },
+    {
+        "from": "qhw",
+        "to": "ᨀᨘ"
+    },
+    {
+        "from": "qhu",
+        "to": "ᨀᨘ"
+    },
+    {
+        "from": "qhe",
+        "to": "ᨀᨙ"
+    },
+    {
+        "from": "qho",
+        "to": "ᨀᨚ"
+    },
+    {
+        "from": "qhq",
+        "to": "ᨀᨛ"
+    },
+    {
         "from": "nya",
         "to": "ᨎ"
     },
@@ -75,6 +139,39 @@
         "from": "ncq",
         "to": "ᨏᨛ"
     },
+    
+    {
+        "from": "ncha",
+        "to": "ᨏ"
+    },
+    {
+        "from": "nchi",
+        "to": "ᨏᨗ"
+    },
+    {
+        "from": "nchy",
+        "to": "ᨏᨗ"
+    },
+    {
+        "from": "nchu",
+        "to": "ᨏᨘ"
+    },
+    {
+        "from": "nchw",
+        "to": "ᨏᨘ"
+    },
+    {
+        "from": "nche",
+        "to": "ᨏᨙ"
+    },
+    {
+        "from": "ncho",
+        "to": "ᨏᨚ"
+    },
+    {
+        "from": "nchq",
+        "to": "ᨏᨛ"
+    },
     {
         "from": "nc",
         "to": "ᨏᨛ",
@@ -117,6 +214,642 @@
         "hasLeft": true,
         "right": ""
     },
+    {
+        "from": "gha",
+        "to": "ᨁ"
+    },
+    {
+        "from": "ghi",
+        "to": "ᨁᨗ"
+    },
+    {
+        "from": "ghy",
+        "to": "ᨁᨗ"
+    },
+    {
+        "from": "ghw",
+        "to": "ᨁᨘ"
+    },
+    {
+        "from": "ghu",
+        "to": "ᨁᨘ"
+    },
+    {
+        "from": "ghe",
+        "to": "ᨁᨙ"
+    },
+    {
+        "from": "gho",
+        "to": "ᨁᨚ"
+    },
+    {
+        "from": "ghq",
+        "to": "ᨁᨛ"
+    },
+    
+    {
+        "from": "ngha",
+        "to": "ᨂ"
+    },
+    {
+        "from": "nghi",
+        "to": "ᨂᨗ"
+    },
+    {
+        "from": "nghy",
+        "to": "ᨂᨗ"
+    },
+    {
+        "from": "nghw",
+        "to": "ᨂᨘ"
+    },
+    {
+        "from": "nghu",
+        "to": "ᨂᨘ"
+    },
+    {
+        "from": "nghe",
+        "to": "ᨂᨙ"
+    },
+    {
+        "from": "ngho",
+        "to": "ᨂᨚ"
+    },
+    {
+        "from": "nghq",
+        "to": "ᨂᨛ"
+    },
+    {
+        "from": "nkha",
+        "to": "ᨃ"
+    },
+    {
+        "from": "nkhi",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "nkhy",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "nkhw",
+        "to": "ᨃᨘ"
+    },
+    {
+        "from": "nkhu",
+        "to": "ᨃᨘ"
+    },
+    {
+        "from": "nkhe",
+        "to": "ᨃᨙ"
+    },
+    {
+        "from": "nkho",
+        "to": "ᨃᨚ"
+    },
+    {
+        "from": "nkhq",
+        "to": "ᨃᨛ"
+    },
+    {
+        "from": "ngkha",
+        "to": "ᨃ"
+    },
+    {
+        "from": "ngkhi",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "ngkhy",
+        "to": "ᨃᨗ"
+    },
+    {
+        "from": "ngkhw",
+        "to": "ᨃᨘ"
+    },
+    {
+        "from": "ngkhu",
+        "to": "ᨃᨘ"
+    },
+    {
+        "from": "ngkhe",
+        "to": "ᨃᨙ"
+    },
+    {
+        "from": "ngkho",
+        "to": "ᨃᨚ"
+    },
+    {
+        "from": "ngkhq",
+        "to": "ᨃᨛ"
+    },
+    {
+        "from": "pha",
+        "to": "ᨄ"
+    },
+    {
+        "from": "phi",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "phy",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "phw",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "phu",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "phe",
+        "to": "ᨄᨙ"
+    },
+    {
+        "from": "pho",
+        "to": "ᨄᨚ"
+    },
+    {
+        "from": "phq",
+        "to": "ᨄᨛ"
+    },
+    {
+        "from": "fha",
+        "to": "ᨄ"
+    },
+    {
+        "from": "fhi",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "fhy",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "fhw",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "fhu",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "fhe",
+        "to": "ᨄᨙ"
+    },
+    {
+        "from": "fho",
+        "to": "ᨄᨚ"
+    },
+    {
+        "from": "fhq",
+        "to": "ᨄᨛ"
+    },
+    
+    {
+        "from": "vha",
+        "to": "ᨄ"
+    },
+    {
+        "from": "vhi",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "vhy",
+        "to": "ᨄᨗ"
+    },
+    {
+        "from": "vhu",
+        "to": "ᨄᨘ"
+    },
+    {
+        "from": "vhe",
+        "to": "ᨄᨙ"
+    },
+    {
+        "from": "vho",
+        "to": "ᨄᨚ"
+    },
+    {
+        "from": "vhq",
+        "to": "ᨄᨛ"
+    },
+    {
+        "from": "bha",
+        "to": "ᨅ",
+        "left": ""
+    },
+    {
+        "from": "bhi",
+        "to": "ᨅᨗ",
+        "left": ""
+    },
+    {
+        "from": "bhy",
+        "to": "ᨅᨗ",
+        "left": ""
+    },
+    {
+        "from": "bhw",
+        "to": "ᨅᨘ",
+        "left": ""
+    },
+    {
+        "from": "bhu",
+        "to": "ᨅᨘ",
+        "left": ""
+    },
+    {
+        "from": "bhe",
+        "to": "ᨅᨙ",
+        "left": ""
+    },
+    {
+        "from": "bho",
+        "to": "ᨅᨚ",
+        "left": ""
+    },
+    {
+        "from": "bhq",
+        "to": "ᨅᨛ",
+        "left": ""
+    },
+    
+    {
+        "from": "mha",
+        "to": "ᨆ",
+        "left": ""
+    },
+    {
+        "from": "mhi",
+        "to": "ᨆᨗ",
+        "left": ""
+    },
+    {
+        "from": "mhy",
+        "to": "ᨆᨗ",
+        "left": ""
+    },
+    {
+        "from": "mhu",
+        "to": "ᨆᨘ",
+        "left": ""
+    },
+    {
+        "from": "mhw",
+        "to": "ᨆᨘ",
+        "left": ""
+    },
+    {
+        "from": "mhe",
+        "to": "ᨆᨙ",
+        "left": ""
+    },
+    {
+        "from": "mho",
+        "to": "ᨆᨚ",
+        "left": ""
+    },
+    {
+        "from": "mhq",
+        "to": "ᨆᨛ",
+        "left": ""
+    },
+    {
+        "from": "tha",
+        "to": "ᨈ"
+    },
+    {
+        "from": "thi",
+        "to": "ᨈᨗ"
+    },
+    {
+        "from": "thy",
+        "to": "ᨈᨗ"
+    },
+    {
+        "from": "thu",
+        "to": "ᨈᨘ"
+    },
+    {
+        "from": "thw",
+        "to": "ᨈᨘ"
+    },
+    {
+        "from": "the",
+        "to": "ᨈᨙ"
+    },
+    {
+        "from": "tho",
+        "to": "ᨈᨚ"
+    },
+    {
+        "from": "thq",
+        "to": "ᨈᨛ"
+    },
+
+    {
+        "from": "dha",
+        "to": "ᨉ"
+    },
+    {
+        "from": "dhi",
+        "to": "ᨉᨗ"
+    },
+    {
+        "from": "dhy",
+        "to": "ᨉᨗ"
+    },
+    {
+        "from": "dhu",
+        "to": "ᨉᨘ"
+    },
+    {
+        "from": "dhw",
+        "to": "ᨉᨘ",
+        "description": "Huruf D dan W bersatu, W menjadi U"
+    },
+    {
+        "from": "dhe",
+        "to": "ᨉᨙ"
+    },
+    {
+        "from": "dho",
+        "to": "ᨉᨚ"
+    },
+    {
+        "from": "dhq",
+        "to": "ᨉᨛ"
+    },
+    {
+        "from": "nha",
+        "to": "ᨊ"
+    },
+    {
+        "from": "nhi",
+        "to": "ᨊᨗ"
+    },
+    {
+        "from": "nhy",
+        "to": "ᨊᨗ"
+    },
+    {
+        "from": "nhu",
+        "to": "ᨊᨘ"
+    },
+    {
+        "from": "nhw",
+        "to": "ᨊᨘ"
+    },
+    {
+        "from": "nhe",
+        "to": "ᨊᨙ"
+    },
+    {
+        "from": "nho",
+        "to": "ᨊᨚ"
+    },
+    {
+        "from": "nhq",
+        "to": "ᨊᨛ"
+    },
+    {
+        "from": "cha",
+        "to": "ᨌ"
+    },
+    {
+        "from": "chi",
+        "to": "ᨌᨗ"
+    },
+    {
+        "from": "chy",
+        "to": "ᨌᨗ"
+    },
+    {
+        "from": "chu",
+        "to": "ᨌᨘ"
+    },
+    {
+        "from": "chw",
+        "to": "ᨌᨘ"
+    },
+    {
+        "from": "che",
+        "to": "ᨌᨙ"
+    },
+    {
+        "from": "cho",
+        "to": "ᨌᨚ"
+    },
+    {
+        "from": "cq",
+        "to": "ᨌᨛ"
+    },
+    {
+        "from": "jha",
+        "to": "ᨍ"
+    },
+    {
+        "from": "jhi",
+        "to": "ᨍᨗ"
+    },
+    {
+        "from": "jhy",
+        "to": "ᨍᨗ"
+    },
+    {
+        "from": "jhu",
+        "to": "ᨍᨘ"
+    },
+    {
+        "from": "jhw",
+        "to": "ᨍᨘ"
+    },
+    {
+        "from": "jhe",
+        "to": "ᨍᨙ"
+    },
+    {
+        "from": "jho",
+        "to": "ᨍᨚ"
+    },
+    {
+        "from": "jhq",
+        "to": "ᨍᨛ"
+    },
+    {
+        "from": "yha",
+        "to": "ᨐ"
+    },
+    {
+        "from": "yhi",
+        "to": "ᨐᨗ"
+    },
+    {
+        "from": "yhw",
+        "to": "ᨐᨘ"
+    },
+    {
+        "from": "yhu",
+        "to": "ᨐᨘ"
+    },
+    {
+        "from": "yhe",
+        "to": "ᨐᨙ"
+    },
+    {
+        "from": "yho",
+        "to": "ᨐᨚ"
+    },
+    {
+        "from": "yhq",
+        "to": "ᨐᨛ"
+    },
+    {
+        "from": "rha",
+        "to": "ᨑ",
+        "left": " "
+    },
+    {
+        "from": "rhi",
+        "to": "ᨑᨗ",
+        "left": " "
+    },
+    {
+        "from": "rhy",
+        "to": "ᨑᨗ",
+        "left": " "
+    },
+    {
+        "from": "rhu",
+        "to": "ᨑᨘ",
+        "left": " "
+    },
+    {
+        "from": "rhw",
+        "to": "ᨑᨘ",
+        "left": " "
+    },
+    {
+        "from": "rhe",
+        "to": "ᨑᨙ",
+        "left": " "
+    },
+    {
+        "from": "rho",
+        "to": "ᨑᨚ",
+        "left": " "
+    },
+    {
+        "from": "rhq",
+        "to": "ᨑᨛ",
+        "left": " "
+    },
+    {
+        "from": "rha",
+        "to": "ᨑ",
+        "hasLeft": false
+    },
+    {
+        "from": "rhi",
+        "to": "ᨑᨗ",
+        "hasLeft": false
+    },
+    {
+        "from": "rhy",
+        "to": "ᨑᨗ",
+        "hasLeft": false
+    },
+    {
+        "from": "rhu",
+        "to": "ᨑᨘ",
+        "hasLeft": false
+    },
+    {
+        "from": "rhw",
+        "to": "ᨑᨘ",
+        "hasLeft": false
+    },
+    {
+        "from": "rhe",
+        "to": "ᨑᨙ",
+        "hasLeft": false
+    },
+    {
+        "from": "rho",
+        "to": "ᨑᨚ",
+        "hasLeft": false
+    },
+    {
+        "from": "rhq",
+        "to": "ᨑᨛ",
+        "hasLeft": false
+    },
+    {
+        "from": "lha",
+        "to": "ᨒ"
+    },
+    {
+        "from": "lhi",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lhy",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lhw",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "lhu",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "lhe",
+        "to": "ᨒᨙ"
+    },
+    {
+        "from": "lho",
+        "to": "ᨒᨚ"
+    },
+    {
+        "from": "lhq",
+        "to": "ᨒᨛ"
+    },
+    {
+        "from": "wha",
+        "to": "ᨓ"
+    },
+    {
+        "from": "whi",
+        "to": "ᨓᨗ"
+    },
+    {
+        "from": "why",
+        "to": "ᨓᨗ"
+    },
+    {
+        "from": "whu",
+        "to": "ᨓᨘ"
+    },
+    {
+        "from": "whe",
+        "to": "ᨓᨙ"
+    },
+    {
+        "from": "who",
+        "to": "ᨓᨚ"
+    },
+    {
+        "from": "whq",
+        "to": "ᨓᨛ"
+    },
+
+
+
     {
         "from": "ka",
         "to": "ᨀ"
@@ -253,10 +986,28 @@
         "to": "ᨁᨛ"
     },
     {
+        "from": "ng",
+        "to": "ᨂᨛ",
+        "right": "r",
+        "description": "Huruf NG bila bertemu huruf R"
+    },
+    {
         "from": "g",
         "to": "ᨁᨛ",
         "right": "r",
         "description": "Huruf G bila bertemu huruf R"
+    },
+    {
+        "from": "g",
+        "to": "ᨁᨛ",
+        "right": "l",
+        "description": "Huruf G bila bertemu huruf L"
+    },
+    {
+        "from": "g",
+        "to": "ᨁᨛ",
+        "right": "j",
+        "description": "Huruf G bila bertemu huruf J"
     },
     {
         "from": "nga",
@@ -268,7 +1019,7 @@
     },
     {
         "from": "ngy",
-        "to": "ᨂᨛ"
+        "to": "ᨂᨗ"
     },
     {
         "from": "ngw",
@@ -974,10 +1725,6 @@
         "to": "ᨐᨚ"
     },
     {
-        "from": "iq",
-        "to": "ᨐᨛ"
-    },
-    {
         "from": "ya",
         "to": "ᨐ"
     },
@@ -1170,6 +1917,12 @@
         "to": "ᨒᨛ"
     },
     {
+        "description": "Akhiran L bila sebelumnya huruf A",
+        "from": "l",
+        "to": "ᨒ",
+        "left": "ᨕ"
+    },
+    {
         "description": "Akhiran L bila sebelumnya huruf GA",
         "from": "l",
         "to": "ᨒ",
@@ -1333,6 +2086,24 @@
         "to": "ᨔᨛ"
     },
     {
+        "description": "Huruf S bila jumpa huruf TA",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "t"
+    },
+    {
+        "description": "Huruf S bila jumpa huruf LA",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "l"
+    },
+    {
+        "description": "Huruf S bila jumpa R",
+        "from": "s",
+        "to": "ᨔᨛ",
+        "right": "r"
+    },
+    {
         "from": "s",
         "to": "",
         "right": "s",
@@ -1373,24 +2144,6 @@
         "from": "s",
         "to": "ᨔᨛ",
         "left": "ᨅ"
-    },
-    {
-        "description": "Huruf S bila jumpa huruf TA",
-        "from": "s",
-        "to": "ᨔᨛ",
-        "right": "t"
-    },
-    {
-        "description": "Huruf S bila jumpa huruf LA",
-        "from": "s",
-        "to": "ᨔᨛ",
-        "right": "l"
-    },
-    {
-        "description": "Huruf S bila jumpa R",
-        "from": "s",
-        "to": "ᨔᨛ",
-        "right": "r"
     },
     {
         "description": "Akhiran SY bila sebelumnya ada bunyi vokal I",
@@ -1436,38 +2189,6 @@
     },
 
     
-    {
-        "from": "sha",
-        "to": "ᨔ"
-    },
-    {
-        "from": "shi",
-        "to": "ᨔᨗ"
-    },
-    {
-        "from": "shy",
-        "to": "ᨔᨗ"
-    },
-    {
-        "from": "shw",
-        "to": "ᨔᨘ"
-    },
-    {
-        "from": "shu",
-        "to": "ᨔᨘ"
-    },
-    {
-        "from": "she",
-        "to": "ᨔᨙ"
-    },
-    {
-        "from": "sho",
-        "to": "ᨔᨚ"
-    },
-    {
-        "from": "shq",
-        "to": "ᨔᨛ"
-    },
     {
         "description": "Akhiran SH bila sebelumnya ada bunyi vokal I",
         "from": "sh",
