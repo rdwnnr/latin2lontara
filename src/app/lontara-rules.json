@@ -650,12 +650,12 @@
     },
     {
         "from": "ny",
-        "to": "ᨊᨗ"
+        "to": "",
+        "right": "ny"
     },
     {
         "from": "ny",
-        "to": "",
-        "right": "ny"
+        "to": "ᨊᨗ"
     },
     {
         "from": "nu",
