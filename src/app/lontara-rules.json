@@ -76,6 +76,18 @@
         "to": "ᨏᨛ"
     },
     {
+        "from": "nc",
+        "to": "ᨏᨛ",
+        "right": "l",
+        "description": "Huruf NC jumpa huruf L"
+    },
+    {
+        "from": "nc",
+        "to": "ᨏᨛ",
+        "right": "r",
+        "description": "Huruf NC jumpa huruf R"
+    },
+    {
         "from": "kha",
         "to": "ᨖ"
     },
@@ -517,6 +529,12 @@
         "to": "ᨅᨛ",
         "right": "d"
     },
+    {
+        "description": "Huruf B bila jumpa huruf H",
+        "from": "b",
+        "to": "ᨅᨛ",
+        "right": "h"
+    },
 
     {
         "from": "ma",
@@ -562,6 +580,25 @@
         "to": "ᨆᨛ",
         "right": "r"
     },
+    {
+        "description": "Huruf M bila jumpa huruf D",
+        "from": "m",
+        "to": "ᨆᨛ",
+        "right": "d"
+    },
+    {
+        "description": "Huruf M bila jumpa huruf Z",
+        "from": "m",
+        "to": "ᨆᨛ",
+        "right": "z"
+    },
+    {
+        "description": "Huruf M bila jumpa huruf S",
+        "from": "m",
+        "to": "ᨆᨛ",
+        "right": "s"
+    },
+
     {
         "from": "mpa",
         "to": "ᨇ"
@@ -697,6 +734,25 @@
         "to": "ᨈᨛ",
         "right": "r"
     },
+    {
+        "description": "Huruf T bila jumpa huruf N",
+        "from": "t",
+        "to": "ᨈᨛ",
+        "right": "n"
+    },
+    {
+        "description": "Huruf T bila jumpa huruf L",
+        "from": "t",
+        "to": "ᨈᨛ",
+        "right": "l"
+    },
+    {
+        "description": "Huruf T bila jumpa huruf B",
+        "from": "t",
+        "to": "ᨈᨛ",
+        "right": "b"
+    },
+
     {
         "from": "da",
         "to": "ᨉ"
@@ -1289,6 +1345,12 @@
         "left": "ᨗ"
     },
     {
+        "description": "Akhiran S bila sebelumnya ada bunyi vokal O",
+        "from": "s",
+        "to": "ᨔᨚ",
+        "left": "ᨚ"
+    },
+    {
         "description": "Akhiran S bila sebelumnya ada bunyi vokal Q",
         "from": "s",
         "to": "ᨔᨛ",
@@ -1481,6 +1543,12 @@
         "left": "ᨗ"
     },
     {
+        "description": "Akhiran Z bila sebelumnya ada bunyi vokal O",
+        "from": "z",
+        "to": "ᨔᨛ",
+        "left": "ᨚ"
+    },
+    {
         "description": "Akhiran Z bila sebelumnya ada bunyi vokal Q",
         "from": "z",
         "to": "ᨔᨛ",
@@ -1565,15 +1633,28 @@
     },
     {
         "from": "r",
-        "to": "ᨑ"
+        "to": "ᨑ",
+        "hasLeft": true
     },
     {
         "from": "s",
-        "to": "ᨔᨛ"
+        "to": "ᨔᨛ",
+        "hasLeft": true
+    },
+    {
+        "from": "z",
+        "to": "ᨔᨛ",
+        "hasLeft": true
     },
     {
         "from": "l",
-        "to": "ᨒᨛ"
+        "to": "ᨒᨛ",
+        "hasLeft": true
+    },
+    {
+        "from": "w",
+        "to": "ᨓᨘ",
+        "hasLeft": true
     },
     {
         "from": "y",
