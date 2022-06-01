@@ -12,6 +12,70 @@
         "to": "᨞"
     },
     {
+        "from": "nya",
+        "to": "ᨎ"
+    },
+    {
+        "from": "nyi",
+        "to": "ᨎᨗ"
+    },
+    {
+        "from": "nyy",
+        "to": "ᨎᨗ"
+    },
+    {
+        "from": "nyu",
+        "to": "ᨎᨘ"
+    },
+    {
+        "from": "nyw",
+        "to": "ᨎᨘ"
+    },
+    {
+        "from": "nye",
+        "to": "ᨎᨙ"
+    },
+    {
+        "from": "nyo",
+        "to": "ᨎᨚ"
+    },
+    {
+        "from": "nyq",
+        "to": "ᨎᨛ"
+    },
+    {
+        "from": "nca",
+        "to": "ᨏ"
+    },
+    {
+        "from": "nci",
+        "to": "ᨏᨗ"
+    },
+    {
+        "from": "ncy",
+        "to": "ᨏᨗ"
+    },
+    {
+        "from": "ncu",
+        "to": "ᨏᨘ"
+    },
+    {
+        "from": "ncw",
+        "to": "ᨏᨘ"
+    },
+    {
+        "from": "nce",
+        "to": "ᨏᨙ"
+    },
+    {
+        "from": "nco",
+        "to": "ᨏᨚ"
+    },
+    {
+        "from": "ncq",
+        "to": "ᨏᨛ"
+    },
+    {
         "from": "kh",
         "to": "ᨖᨛ",
         "hasLeft": true
@@ -589,6 +653,11 @@
         "to": "ᨊᨗ"
     },
     {
+        "from": "ny",
+        "to": "",
+        "right": "ny"
+    },
+    {
         "from": "nu",
         "to": "ᨊᨘ"
     },
@@ -735,70 +804,6 @@
     {
         "from": "jq",
         "to": "ᨍᨛ"
-    },
-    {
-        "from": "nya",
-        "to": "ᨎ"
-    },
-    {
-        "from": "nyi",
-        "to": "ᨎᨗ"
-    },
-    {
-        "from": "nyy",
-        "to": "ᨎᨗ"
-    },
-    {
-        "from": "nyu",
-        "to": "ᨎᨘ"
-    },
-    {
-        "from": "nyw",
-        "to": "ᨎᨘ"
-    },
-    {
-        "from": "nye",
-        "to": "ᨎᨙ"
-    },
-    {
-        "from": "nyo",
-        "to": "ᨎᨚ"
-    },
-    {
-        "from": "nyq",
-        "to": "ᨎᨛ"
-    },
-    {
-        "from": "nca",
-        "to": "ᨏ"
-    },
-    {
-        "from": "nci",
-        "to": "ᨏᨗ"
-    },
-    {
-        "from": "ncy",
-        "to": "ᨏᨗ"
-    },
-    {
-        "from": "ncu",
-        "to": "ᨏᨘ"
-    },
-    {
-        "from": "ncw",
-        "to": "ᨏᨘ"
-    },
-    {
-        "from": "nce",
-        "to": "ᨏᨙ"
-    },
-    {
-        "from": "nco",
-        "to": "ᨏᨚ"
-    },
-    {
-        "from": "ncq",
-        "to": "ᨏᨛ"
     },
     {
         "from": "ia",
