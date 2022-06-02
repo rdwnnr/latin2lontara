@@ -43,6 +43,55 @@
         "from": "shq",
         "to": "ᨔᨛ"
     },
+    
+    {
+        "from": "ng",
+        "to": "ᨂᨛ",
+        "right": "l",
+        "description": "Huruf NG bila bertemu huruf L"
+    },
+    {
+        "from": "ng",
+        "to": "ᨂᨛ",
+        "right": "s",
+        "description": "Huruf NG bila bertemu huruf S"
+    },
+    {
+        "from": "b",
+        "to": "ᨅᨛ",
+        "right": "s",
+        "description": "Huruf B bila bertemu huruf S"
+    },
+    {
+        "from": "k",
+        "to": "ᨀᨛ",
+        "right": "m",
+        "description": "Huruf K bila bertemu huruf M"
+    },
+    {
+        "from": "p",
+        "to": "ᨄᨛ",
+        "right": "t",
+        "description": "Huruf P bila bertemu huruf T"
+    },
+    {
+        "from": "f",
+        "to": "ᨄᨛ",
+        "right": "t",
+        "description": "Huruf F bila bertemu huruf T"
+    },
+    {
+        "from": "v",
+        "to": "ᨄᨛ",
+        "right": "t",
+        "description": "Huruf V bila bertemu huruf T"
+    },
+    {
+        "from": "p",
+        "to": "ᨄᨛ",
+        "right": "s",
+        "description": "Huruf P bila bertemu huruf S"
+    },
     {
         "from": "qha",
         "to": "ᨀ"
@@ -1675,6 +1724,18 @@
     {
         "from": "cq",
         "to": "ᨌᨛ"
+    },
+    {
+        "from": "c",
+        "to": "ᨌᨛ",
+        "right": "r",
+        "description": "Huruf K bila bertemu huruf R"
+    },
+    {
+        "from": "c",
+        "to": "ᨌᨛ",
+        "right": "l",
+        "description": "Huruf K bila bertemu huruf L"
     },
     {
         "from": "ja",
