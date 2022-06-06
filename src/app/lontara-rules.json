@@ -23,6 +23,13 @@
     },
     {
         "from": "g",
+        "to": "",
+        "left": "n",
+        "right": "m",
+        "description": "G jumpa M"  
+    },
+    {
+        "from": "g",
         "to": "ᨁᨛ",
         "right": "m",
         "description": "G jumpa M"  
