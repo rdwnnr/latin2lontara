@@ -19,9 +19,9 @@ export class AppComponent {
     const lat2lon: TranslitRuleItem[] = LontaraRule;
 
     this.translitService.translit(this.latinInput.toLowerCase(), 'latin2lontara', lat2lon)
-    .subscribe( (result) => {
-      this.lontaraOutput = result.outputText
-      .replace(/[^ᨀ-᨟0-9\s]/gi, '');
-    });
+      .subscribe((result) => {
+        this.lontaraOutput = result.outputText
+          .replace(/[^ᨀ-᨟0-9\s]/gi, '');
+      });
   }
 }

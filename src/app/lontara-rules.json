@@ -16,6 +16,18 @@
         "to": "ᨔ"
     },
     {
+        "from": "l",
+        "to": "ᨒᨛ",
+        "right": "m",
+        "description": "L jumpa M"  
+    },
+    {
+        "from": "g",
+        "to": "ᨁᨛ",
+        "right": "m",
+        "description": "G jumpa M"  
+    },
+    {
         "from": "shi",
         "to": "ᨔᨗ"
     },
@@ -835,34 +847,6 @@
         "from": "rhq",
         "to": "ᨑᨛ",
         "hasLeft": false
-    },
-    {
-        "from": "lha",
-        "to": "ᨒ"
-    },
-    {
-        "from": "lhi",
-        "to": "ᨒᨗ"
-    },
-    {
-        "from": "lhy",
-        "to": "ᨒᨗ"
-    },
-    {
-        "from": "lhw",
-        "to": "ᨒᨘ"
-    },
-    {
-        "from": "lhu",
-        "to": "ᨒᨘ"
-    },
-    {
-        "from": "lhe",
-        "to": "ᨒᨙ"
-    },
-    {
-        "from": "lho",
-        "to": "ᨒᨚ"
     },
     {
         "from": "lhq",
@@ -2031,6 +2015,34 @@
         "to": "ᨒᨙ",
         "left": "ᨙ"
     },
+    {
+        "from": "lha",
+        "to": "ᨒ"
+    },
+    {
+        "from": "lhi",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lhy",
+        "to": "ᨒᨗ"
+    },
+    {
+        "from": "lhw",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "lhu",
+        "to": "ᨒᨘ"
+    },
+    {
+        "from": "lhe",
+        "to": "ᨒᨙ"
+    },
+    {
+        "from": "lho",
+        "to": "ᨒᨚ"
+    },
 
 
     {
@@ -2408,6 +2420,12 @@
         "description": "H mati jumpa S"
     },
     {
+        "from": "f",
+        "to": "ᨄᨛ",
+        "right": "s",
+        "description": "F mati jumpa S"
+    },
+    {
         "from": "h",
         "to": "ᨖᨛ",
         "right": "l",
@@ -2616,42 +2634,77 @@
     {
         "from": "xa",
         "to": "ᨔ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xi",
         "to": "ᨔᨗ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xy",
         "to": "ᨔᨗ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xu",
         "to": "ᨔᨘ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xw",
         "to": "ᨔᨘ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xe",
         "to": "ᨔᨙ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xo",
         "to": "ᨔᨚ",
-        "hasLeft": false
+        "left": " "
     },
     {
         "from": "xq",
         "to": "ᨔᨛ",
-        "hasLeft": false
+        "left": " "
+    },
+    {
+        "from": "xi",
+        "to": "ᨔᨗ",
+        "left": " "
+    },
+    {
+        "from": "xy",
+        "to": "ᨔᨗ",
+        "left": " "
+    },
+    {
+        "from": "xu",
+        "to": "ᨔᨘ",
+        "left": " "
+    },
+    {
+        "from": "xw",
+        "to": "ᨔᨘ",
+        "left": " "
+    },
+    {
+        "from": "xe",
+        "to": "ᨔᨙ",
+        "left": " "
+    },
+    {
+        "from": "xo",
+        "to": "ᨔᨚ",
+        "left": " "
+    },
+    {
+        "from": "xq",
+        "to": "ᨔᨛ",
+        "left": " "
     },
     {
         "from": "xa",
@@ -2690,11 +2743,6 @@
     },
     {
         "from": "xq",
-        "to": "ᨀᨛᨔᨛ",
-        "hasLeft": true
-    },
-    {
-        "from": "x",
         "to": "ᨀᨛᨔᨛ",
         "hasLeft": true
     },
